@@ -32,7 +32,7 @@ version: 1.0.7
 appVersion: 1
 dependencies:
   - name: mongodb
-    version: 10.28.2
+    version: 10.31.5
     repository:  https://charts.bitnami.com/bitnami
     enabled: true
 
