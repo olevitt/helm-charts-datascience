@@ -24,7 +24,7 @@ security:
 global:
   image:
     repository: quay.io/argoproj/argocd
-    tag: v2.1.2
+    tag: v2.14.21
     imagePullPolicy: IfNotPresent
 
   networkPolicy:
